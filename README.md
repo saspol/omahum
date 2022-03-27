@@ -2,6 +2,7 @@
 ## Получение VPN приложения
 
 Здесь берём приложение для VPN, устанавливаем.
+
 https://github.com/2dust/v2rayNG/releases/download/1.6.30/v2rayNG_1.6.30_arm64-v8a.apk
 
 ## Настройка
