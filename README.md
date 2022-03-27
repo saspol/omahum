@@ -6,4 +6,4 @@
 ![v2rayNG5](https://user-images.githubusercontent.com/16889941/160183236-aa6b06f2-0aaa-4c94-90a3-28520fc0fb8c.png)
 ![v2rayNG6](https://user-images.githubusercontent.com/16889941/160183242-06547c9e-b02d-44f7-a266-50f728c8ff8d.png)
 ![v2rayNG7](https://user-images.githubusercontent.com/16889941/160183245-83405bc6-46d6-466d-b641-d1d938cd1f4f.png)
-![v2rayNG8](https://user-images.githubusercontent.com/16889941/160291179-190cf261-c005-4ee3-96e7-ea378b712bfd.png)
+![v2rayNG8](https://user-images.githubusercontent.com/16889941/160291263-17c07b26-e311-4073-9514-e2bf67bac8d2.png)
