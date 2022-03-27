@@ -9,6 +9,7 @@ https://github.com/2dust/v2rayNG/releases/download/1.6.30/v2rayNG_1.6.30_arm64-v
 Сначала копируем в буфер полученный ключ доступа, который выглядит примерно так:
 ![enter image description here](https://user-images.githubusercontent.com/16889941/160294384-f1b81ed7-bb54-4756-a5ac-553c06232406.png)
 
+Запускаем приложение:
 
 ![enter image description here](https://user-images.githubusercontent.com/16889941/160183204-c64586cb-6e92-40cb-86cb-18ec24ab9267.png)
 
