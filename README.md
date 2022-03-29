@@ -10,28 +10,29 @@
 
 Запускаем приложение V2rayNG:
 
-![enter image description here](https://user-images.githubusercontent.com/16889941/160183204-c64586cb-6e92-40cb-86cb-18ec24ab9267.png)
+1. ![enter image description here](https://user-images.githubusercontent.com/16889941/160183204-c64586cb-6e92-40cb-86cb-18ec24ab9267.png)
 
 
-![enter image description here](https://user-images.githubusercontent.com/16889941/160183214-8a327da8-f4b6-4c64-8e89-942c208d8551.png)
+2. ![enter image description here](https://user-images.githubusercontent.com/16889941/160183214-8a327da8-f4b6-4c64-8e89-942c208d8551.png)
 
 
-![enter image description here](https://user-images.githubusercontent.com/16889941/160183222-19e92246-65c0-4cb8-9f00-79884504ed4c.png)
+3. ![enter image description here](https://user-images.githubusercontent.com/16889941/160183222-19e92246-65c0-4cb8-9f00-79884504ed4c.png)
 
 После этих манипуляций в списке появится сервер для подключения. Затем выберете программы на телефоне, которые будут использовать VPN.
 
-![enter image description here](https://user-images.githubusercontent.com/16889941/160183230-eaadabd4-9306-4dcb-83f4-75b5d8aa05bf.png)
+4. ![enter image description here](https://user-images.githubusercontent.com/16889941/160183230-eaadabd4-9306-4dcb-83f4-75b5d8aa05bf.png)
 
 
-![enter image description here](https://user-images.githubusercontent.com/16889941/160183236-aa6b06f2-0aaa-4c94-90a3-28520fc0fb8c.png)
+5. ![enter image description here](https://user-images.githubusercontent.com/16889941/160183236-aa6b06f2-0aaa-4c94-90a3-28520fc0fb8c.png)
 
 
-![enter image description here](https://user-images.githubusercontent.com/16889941/160183242-06547c9e-b02d-44f7-a266-50f728c8ff8d.png)
+6. ![enter image description here](https://user-images.githubusercontent.com/16889941/160183242-06547c9e-b02d-44f7-a266-50f728c8ff8d.png)
 
 
-![enter image description here](https://user-images.githubusercontent.com/16889941/160183245-83405bc6-46d6-466d-b641-d1d938cd1f4f.png)
+7. ![enter image description here](https://user-images.githubusercontent.com/16889941/160183245-83405bc6-46d6-466d-b641-d1d938cd1f4f.png)
 
-![enter image description here](https://user-images.githubusercontent.com/16889941/160291263-17c07b26-e311-4073-9514-e2bf67bac8d2.png)
+
+8. ![enter image description here](https://user-images.githubusercontent.com/16889941/160291263-17c07b26-e311-4073-9514-e2bf67bac8d2.png)
 
 Для подключения нажимаем на кнопку Ⓥ справа внизу, после этого внизу появится надпись Connected (подключено).
 Можно проверить подключение нажав на поле внизу, программа покажет задержку до тестового сервера или ошибку если подключение не удалось.
