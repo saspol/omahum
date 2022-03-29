@@ -1,7 +1,7 @@
 # omahum
 ## Получение VPN приложения
 
-Установите приложение для VPN из [Play Store](https://play.google.com/store/apps/details?id=com.v2ray.ang), или из [GitHub](https://github.com/2dust/v2rayNG/releases/download/1.6.30/v2rayNG_1.6.30_arm64-v8a.apk)
+Установите приложение из [Play Store](https://play.google.com/store/apps/details?id=com.v2ray.ang), или из [GitHub](https://github.com/2dust/v2rayNG/releases/download/1.6.30/v2rayNG_1.6.30_arm64-v8a.apk)
 
 
 ## Настройка
